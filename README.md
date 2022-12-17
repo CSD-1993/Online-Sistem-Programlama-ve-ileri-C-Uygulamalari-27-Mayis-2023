@@ -4,7 +4,7 @@
 + Kursun __27 Mayıs 2023__ Cumartesi günü başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __320__ saattir. Dersler __Cumartesi ve Pazar günleri 17:00 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __320__ saattir. Dersler __Cumartesi ve Pazar günleri 17:00 - 21:00__ saatleri arasında yapılacaktır.
 + Kursumuzun toplam ücreti KDV dahil __14.400 TL__’dir(Peşin ödemede __13.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __13.000__ TL’dir (peşin ödemede __11.700__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/kursun_tanitimi.md)
