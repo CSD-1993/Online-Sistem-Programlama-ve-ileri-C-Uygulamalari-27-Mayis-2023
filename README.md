@@ -1,0 +1,1 @@
+# Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023
