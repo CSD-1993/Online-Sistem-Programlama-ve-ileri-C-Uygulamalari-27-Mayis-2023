@@ -45,7 +45,7 @@ Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafınd
 [Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-__Sistem Programlama ve İleri C Uygulamaları Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
+__Sistem Programlama ve İleri C Uygulamaları Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
 
 
 
