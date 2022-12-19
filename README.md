@@ -1,4 +1,4 @@
-# Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023
+# Online Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kursun __27 Mayıs 2023__ Cumartesi günü başlayacaktır.
