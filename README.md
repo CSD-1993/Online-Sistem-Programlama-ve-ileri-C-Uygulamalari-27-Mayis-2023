@@ -1,4 +1,4 @@
-# Online Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023
+# Online Sistem Programlama ve ileri C Uygulamaları Kursu - 27 Mayıs 2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kursun __27 Mayıs 2023__ Cumartesi günü başlayacaktır.
@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/sss.md)
-+ [Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0)
