@@ -32,7 +32,7 @@ Eğitim Süresi __320__ saattir.
 
 ## Ders Saatleri
 
-Dersler hafta içi __Cumartesi ve Pazar__ günleri saat __17.00 – 21.00__ saatleri arasında __4__'er saat olarak yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri saat __17.00 – 21.00__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
 Kursun toplam ücreti __14.400__ TL'dir. Öğrencilere için (öğrencilik durumunu belgelemeleri kaydıyla) kurs ücreti __13.000__ TL'dir. Katılımcılar kurs ücretini dilerlerse 2 taksitte ödeyebilirler.
