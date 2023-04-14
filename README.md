@@ -11,3 +11,4 @@
 + [Kurs İçeriği](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/kurs_i%C3%A7eri%C4%9Fi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/sss.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0)
+  
