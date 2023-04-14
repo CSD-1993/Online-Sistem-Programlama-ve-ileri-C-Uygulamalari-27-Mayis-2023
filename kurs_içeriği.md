@@ -262,3 +262,7 @@
 - Yazılım ve Donanım Kesmeleri
 - PC Mimarisinde Temel Kesmeler ve İşlevleri
 - Kesmelerin Ele Alınması
+
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0)
+
+
