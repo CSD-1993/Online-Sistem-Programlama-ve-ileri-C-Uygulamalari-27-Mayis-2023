@@ -17,7 +17,7 @@
 Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine sahip olmanız gerekmektedir. 
 
 ## Format
-+ __Sistem Programlama ve İleri C Uygulamaları Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __Sistem Programlama ve İleri C Uygulamaları Kursu__ online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla çalışma soruları verilmekte, bunların çözümleri açıklanmakta ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -46,6 +46,8 @@ Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafınd
 
 ## Sık Sorulan Sorular
 __Sistem Programlama ve İleri C Uygulamaları Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari-27-Mayis-2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
+
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcuceqqpz0oG9QL4swXJhLW8bIpxWRhmUF0)
 
 
 
